@@ -1,6 +1,4 @@
-If you are building a Non-AI version of this project, your GitHub README should focus on "Rule-Based Systems" and "Risk Logic" rather than machine learning models.
 
-Here is a professional README template for a non-AI, rule-based credit card fraud detection project:
 
 🛡️ Rule-Based Credit Card Fraud Detection
 📌 Project Overview
@@ -49,4 +47,4 @@ def check_fraud(amount, old_balance):
     if old_balance == amount:
         return "FLAGGED: Account Clearing"
     return "SAFE"
-Why use this instead of the AI version?
+
